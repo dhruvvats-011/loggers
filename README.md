@@ -1,4 +1,4 @@
-# loggers #
+# loggers point #
 ##A Python library for automatic logging in some websites with some practical functions##
 
 ####Author: ####
